@@ -1,0 +1,10 @@
+name: PropellerSquad
+version: '${project.version}'
+main: dev.jensderuiter.propellersquad.PropellerSquad
+api-version: 1.16
+authors: [ jensjeflensje ]
+commands:
+  summoncap:
+    usage: /summoncap <player>
+  removecap:
+    usage: /removecap <player>
